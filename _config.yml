@@ -35,7 +35,6 @@ github_username:  TomasR264
 
 # Build settings
 <<<<<<< HEAD
-theme: minima
 =======
 theme: jekyll-theme-minimal
 >>>>>>> a39a5b2e36069130b2cf1eead70496c9380166c8
