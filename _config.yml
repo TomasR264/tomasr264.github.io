@@ -34,9 +34,9 @@ twitter_username: tomasr264
 github_username:  TomasR264
 
 # Build settings
-theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-minimal
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
